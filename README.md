@@ -116,4 +116,8 @@ TOC-JFLAP-Assignments/
 └── README.md
 ```
 
-        
+**Author:** **Bhagyashri Joshi**
+
+**Class: D12B**
+
+**Roll no.: 23**
